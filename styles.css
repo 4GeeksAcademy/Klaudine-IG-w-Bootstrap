@@ -1,0 +1,37 @@
+img {
+    width: 100%;
+    object-fit: cover;
+}
+.center-buttons{
+    justify-content: center;
+}
+h6{
+    padding:8px;
+}
+.modal-body{
+    padding:0;
+}
+.modal-footer{
+    padding: 15px;
+}
+textarea{
+    color:grey;
+    padding:0px;
+}
+.icons{
+    padding: 5px;
+}
+
+/*Index2.html styles*/
+.container{
+    width: 50%;
+    margin: auto;
+}
+.photo{
+}
+h6{
+    font-size: small;
+}
+footer{
+    padding:2px;
+}
